@@ -1,0 +1,36 @@
+{
+  "name": "autofit-video-tag",
+  "version": "0.0.1",
+	"description": "Autofit Video tag height based on poster attrubute image",
+  "maintainers": [
+    {
+      "name": "Masayoshi Sekimura",
+      "email": "sekimura@gmail.com",
+      "url": "http://sekimura.org/"
+    }
+  ],
+  "author": {
+    "name": "Masayoshi Sekimura",
+    "email": "sekimura@gmail.com"
+  },
+  "contributors": [
+  ],
+  "main": "lib/autofit-video-tag.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sekimura/autofit-video-tag.git"
+  },
+  "keywords": [
+    "video",
+    "html5",
+    "autofit",
+    "fit"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "homepage": "https://github.com/sekimura/autofit-video-tag"
+}

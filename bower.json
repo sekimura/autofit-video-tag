@@ -1,0 +1,12 @@
+{
+  "name": "autofit-video-tag",
+  "version": "0.0.1",
+  "main": "lib/autofit-video-tag.js",
+  "ignore": [
+    "**/.*",
+    "component.json",
+    "package.json",
+    "tests",
+    "examples"
+  ]
+}
