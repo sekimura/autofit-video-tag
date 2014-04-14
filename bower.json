@@ -7,6 +7,19 @@
     "component.json",
     "package.json",
     "tests",
-    "examples"
-  ]
+    "examples",
+    "node_modules",
+    "bower_components"
+  ],
+  "homepage": "https://github.com/sekimura/autofit-video-tag",
+  "authors": [
+    "Masayoshi Sekimura <sekimura@gmail.com>"
+  ],
+  "description": "Autofit video tag height based on image defined as poster attribute",
+  "keywords": [
+    "video",
+    "html5",
+    "autofit"
+  ],
+  "license": "MIT"
 }
