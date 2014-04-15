@@ -2,7 +2,7 @@
 	"name": "autofit-video-tag",
 	"repo": "sekimura/autofit-video-tag",
 	"description": "Autofit Video tag height based on poster attrubute image",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"main": "lib/autofit-video-tag.js",
 	"scripts": [
 		"lib/autofit-video-tag.js"
